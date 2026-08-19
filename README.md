@@ -23,4 +23,4 @@ The goal is a tool that just works — no clutter, no bloat.
 
 ## Legal
 > [!NOTE]
-> For personal, lawful use only. Trademarks are the property of their owners.  
+> For personal, lawful use only. Trademarks are the property of their owners.   
